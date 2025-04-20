@@ -12,7 +12,7 @@ import Contacts from "./pages/Contacts";
 import Footer from "./components/Layout/Footer";
 import VideoCall from "./components/videocall.jsx";
 import Chat from "./components/chat.jsx";
-
+import Navbar from "./components/Navigation/Navbar.tsx";
 const queryClient = new QueryClient();
 
 const App = () => (
